@@ -7,3 +7,5 @@
   }
   echo highlight_file(__FILE__, true);
 ?>
+
+f789bbc328a3d1a3+pass
